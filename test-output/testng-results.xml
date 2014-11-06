@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Maven Suite" duration-ms="5787" started-at="2014-11-06T10:03:13Z" finished-at="2014-11-06T10:03:19Z">
+    <groups>
+    </groups>
+    <test name="maven test" duration-ms="5787" started-at="2014-11-06T10:03:13Z" finished-at="2014-11-06T10:03:19Z">
+      <class name="com.company.testclasses.Testgoogle">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.company.testclasses.Testgoogle@7546d205]" name="initialize" is-config="true" duration-ms="8196" started-at="2014-11-06T15:33:05Z" finished-at="2014-11-06T15:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testgoogle()[pri:0, instance:com.company.testclasses.Testgoogle@7546d205]" name="testgoogle" duration-ms="5521" started-at="2014-11-06T15:33:13Z" finished-at="2014-11-06T15:33:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgoogle -->
+        <test-method status="PASS" signature="destroy()[pri:0, instance:com.company.testclasses.Testgoogle@7546d205]" name="destroy" is-config="true" duration-ms="254" started-at="2014-11-06T15:33:19Z" finished-at="2014-11-06T15:33:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroy -->
+      </class> <!-- com.company.testclasses.Testgoogle -->
+    </test> <!-- maven test -->
+  </suite> <!-- Maven Suite -->
+</testng-results>
